@@ -10,3 +10,6 @@ I am an 33 years old programmer in the making. When not deepdiving into code, i 
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tobbl21&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
