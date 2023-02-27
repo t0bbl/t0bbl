@@ -5,6 +5,7 @@ I am an 33 years old programmer in the making. When not deepdiving into code, i 
 - walk the dog or 
 - get educated by my daughter.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00A32D&center=true&width=435&lines=writing+my+readme;adding+interesting+facts)](https://git.io/typing-svg)
 
 ![dog in forest](https://i.imgur.com/YgTPtmt.jpg)
 
